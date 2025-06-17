@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @elsulzee
-- 👀 I’m interested in creating both app and website development  (Developer)
-- 🌱 I’m currently learning (Dart programming language && Flutter)
-- 💞️ I’m looking to collaborate on least minded projects as a beginner
-- 📫 How to reach me reach me via (profile above)
+## 👋 Hi, I’m @elsulzee
 
-<!---
-elsulzee/elsulzee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨🏾‍💻 I’m passionate about **software development** — both **web** and **mobile** apps  
+🛠️ I’m currently working with **PHP (API + Backend)**, **Dart**, and **Flutter**  
+🌱 Learning to become a full-stack developer, integrating **backend systems with frontend UIs**  
+💼 Recently worked on projects like:  
+- E-commerce backend with PHP and JSON API  
+- Authentication systems (register/login/reset)  
+- UI design for banking & religious apps using Flutter  
+
+🤝 I’m open to beginner-friendly collaborations and growth-based internships  
+📫 Reach me via my profile links above (https://github.com/elsulzee/elsulzee, Oduolazayd@gmail.com, etc.)
+
+🧠 Currently focused on:
+- Building APIs with PHP
+- Expanding my Flutter app portfolio
+- Learning secure and clean backend practices
