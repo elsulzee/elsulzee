@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @elsulzee
 
 👨🏾‍💻 I’m passionate about **software development** — both **web** and **mobile** apps  
-🛠️ I’m currently working with **PHP (API + Backend)**, **Dart**, and **Flutter**  
+🛠️ I’m currently working with **PHP (API + Backend) json**, **Dart**, and **Flutter**  
 🌱 Learning to become a full-stack developer, integrating **backend systems with frontend UIs**  
 💼 Recently worked on projects like:  
 - E-commerce backend with PHP and JSON API  
