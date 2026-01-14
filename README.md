@@ -65,10 +65,15 @@ A full-featured platform with:
 
 Feel free to check my repositories and follow my progress
 
+Looking for paid backend roles and contract opportunities.
+Feel free to explore my repositories and follow my progress.
+Open to beginner-friendly collaborations on real-world projects.
 
+Reach me via my profile links above:
+- https://github.com/elsulzee/elsulzee 
+- dayztechnology@gmail.com
+-  www.linkedin.com/in/oyinlola-oduola-450861380
 
-I’m open to beginner-friendly collaborations and growth-based internships  
-Reach me via my profile links above (https://github.com/elsulzee/elsulzee, dayztechnology@gmail.com, www.linkedin.com/in/oyinlola-oduola-450861380)
 
 Currently focused on:
 - Building APIs with PHP
