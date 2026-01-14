@@ -1,5 +1,19 @@
 # Hi, I'm Zayd Oyinlola Oduola
 
+
+Support the Developer for some coffee sip ☕: 
+
+
+Building backend systems, fixing bugs, and learning in public takes time.
+
+If this project helped you, or you just want to support my work,
+you can send a small tip (totally optional).
+
+BTC: bc1q26txwjgq263mkgw4r0j69uudl9scu8dznp8qwj
+
+No promises. No expectations.
+Just appreciation 🙏
+
 Backend-focused Software Engineer building scalable real-world systems.
 
 ---
