@@ -68,7 +68,7 @@ Feel free to check my repositories and follow my progress
 
 
 I’m open to beginner-friendly collaborations and growth-based internships  
-Reach me via my profile links above (https://github.com/elsulzee/elsulzee, dayztechnology@gmail.com, +2348107816754)
+Reach me via my profile links above (https://github.com/elsulzee/elsulzee, dayztechnology@gmail.com, www.linkedin.com/in/oyinlola-oduola-450861380)
 
 🧠 Currently focused on:
 - Building APIs with PHP
