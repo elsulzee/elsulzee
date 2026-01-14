@@ -56,7 +56,7 @@ A full-featured platform with:
 
 ---
 
-## 📫 Contact
+## Contact
 - GitHub: https://github.com/elsulzee/elsulzee
 - Email: dayztechnology@gmail.com
 - LinkedIn: www.linkedin.com/in/oyinlola-oduola-450861380
@@ -70,7 +70,7 @@ Feel free to check my repositories and follow my progress
 I’m open to beginner-friendly collaborations and growth-based internships  
 Reach me via my profile links above (https://github.com/elsulzee/elsulzee, dayztechnology@gmail.com, www.linkedin.com/in/oyinlola-oduola-450861380)
 
-🧠 Currently focused on:
+Currently focused on:
 - Building APIs with PHP
-- Expanding my Flutter app portfolio
 - Learning secure and clean backend practices
+- Expanding my backend engineering portfolio (APIs, auth, databases, system design)
