@@ -13,10 +13,10 @@ Backend-focused Software Engineer building scalable real-world systems.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Backend**
-- PHP (API-first architecture)
+- PHP & Laravel (API-first architecture)
 - MySQL (InnoDB, optimized schemas)
 - Redis (caching)
 - Docker
